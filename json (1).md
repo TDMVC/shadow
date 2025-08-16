@@ -1,4 +1,43 @@
 { 
+"Pink Girl": {
+        "Type": "Girl Power :D",
+        "Image": "rbxassetid://128949951521553",
+        "Rarity": "Secret",
+        "PlacePrice": 0,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 1,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 2,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 3,
+                "Range": 40,
+                "Damage": 70000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 70000,
+                "Range": 50,
+                "Damage": 80000,
+                "Cooldown": 1
+            }
+        ]
+    },
 "Neon Fred": {
         "Type": "Neon Single XD",
         "Image": "rbxassetid://96777804515048",
