@@ -1,4 +1,61 @@
 { 
+"Fgdyehd": {
+        "Type": "Broken",
+        "Image": "rbxassetid://87200061997762",
+        "Rarity": "Secret",
+        "PlacePrice": 300,
+        "Offset": 0,
+        "Max": 5,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 20,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 500,
+                "Range": 30,
+                "Damage": 23,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 600,
+                "Range": 30,
+                "Damage": 34,
+                "Cooldown": 0.005
+            },
+              {
+                "Price": 700,
+                "Range": 40,
+                "Damage": 70000,
+                "Cooldown": 0.005
+            },
+              {
+                "Price": 750,
+                "Range": 50,
+                "Damage": 45,
+                "Cooldown": 0.005
+            },
+              {
+                "Price": 790,
+                "Range": 50,
+                "Damage": 67,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 800,
+                "Range": 60,
+                "Damage": 89,
+                "Cooldown": 0.005
+            }
+        ]
+    },
 "Pink Girl": {
         "Type": "Girl Power :D",
         "Image": "rbxassetid://128949951521553",
