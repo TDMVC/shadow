@@ -1,4 +1,4 @@
-[{
+{
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
