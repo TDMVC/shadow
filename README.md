@@ -228,7 +228,7 @@
         ]
     },
     "Yukon Freddy": {
-        "Type": "Admin",
+        "Type": "Limited",
         "Image": "rbxassetid://108172820315503",
         "Rarity": "Apex",
         "PlacePrice": 10000,
