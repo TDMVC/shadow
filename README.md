@@ -6738,7 +6738,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 3000,
+                "Damage": 30000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 2
@@ -6746,7 +6746,7 @@
             {
                 "Price": 30000,
                 "Range": 40,
-                "Damage": 3600,
+                "Damage": 36000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 1.6
@@ -6754,7 +6754,7 @@
             {
                 "Price": 40000,
                 "Range": 45,
-                "Damage": 4000,
+                "Damage": 50000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 1.3
@@ -6762,7 +6762,7 @@
             {
                 "Price": 50000,
                 "Range": 50,
-                "Damage": 5000,
+                "Damage": 100000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 1
