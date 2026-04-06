@@ -230,7 +230,7 @@
     "Yukon Freddy": {
         "Type": "Admin",
         "Image": "rbxassetid://108172820315503",
-        "Rarity": "Nightmare",
+        "Rarity": "Apex",
         "PlacePrice": 10000,
         "Max": 1,
         "hitboxOffset": {
@@ -242,25 +242,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 10000,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 23,
-                "Damage": 2000,
+                "Range": 33,
+                "Damage": 20000,
                 "Cooldown": 0.75
             },
             {
                 "Price": 1200,
-                "Range": 25,
-                "Damage": 2000,
+                "Range": 45,
+                "Damage": 20000,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1500,
-                "Range": 26,
-                "Damage": 2500,
+                "Range": 56,
+                "Damage": 25000,
                 "Cooldown": 0.5
             }
         ]
