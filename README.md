@@ -6762,7 +6762,7 @@
             {
                 "Price": 50000,
                 "Range": 50,
-                "Damage": 10000000000000,
+                "Damage": 100000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 1
