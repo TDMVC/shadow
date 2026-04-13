@@ -6979,6 +6979,50 @@
             }
         ]
     },
+        "Boombox Foxy": {
+        "Type": "Range Booster",
+        "Image": "rbxassetid://122976176441685",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Offset": -0.75,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.35
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.4
+            },
+            {
+                "Price": 1400,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.47
+            }
+        ]
+    },
     "Molten Freddy": {
         "Type": "Explosion Burn",
         "Image": "rbxassetid://72496434217414",
