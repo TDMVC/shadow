@@ -4061,9 +4061,9 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 65,
+        "PlacePrice": 45000,
         "Offset": -1,
-        "Max": 20,
+        "Max": 2,
         "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
         "hitboxOffset": {
             "X": 0,
@@ -4101,7 +4101,7 @@
                 "Damage": 250000,
                 "Poison": 50000,
                 "PoisonTime": 8,
-                "Cooldown": 0.1
+                "Cooldown": 3
             }
         ]
     },
