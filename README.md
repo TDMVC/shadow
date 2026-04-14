@@ -2,7 +2,7 @@
  "Glitched Lolbit": {
         "Type": "AOE",
         "Image": "rbxassetid://93173023523809",
-        "Rarity": "Nightmare",
+         "Rarity": "Secret",
         "PlacePrice": 50000,
         "Max": 2,
         "hitboxOffset": {
