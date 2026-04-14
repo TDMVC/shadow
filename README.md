@@ -231,7 +231,7 @@
         "Type": "Limited",
         "Image": "rbxassetid://108172820315503",
         "Rarity": "Apex",
-        "PlacePrice": 10000,
+        "PlacePrice": 100000,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -242,25 +242,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10000,
-                "Cooldown": 1
+                "Damage": 25000,
+                "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 33,
-                "Damage": 20000,
-                "Cooldown": 0.75
+                "Damage": 40000,
+                "Cooldown": 0.6
             },
             {
                 "Price": 1200,
                 "Range": 45,
-                "Damage": 20000,
+                "Damage": 65000,
                 "Cooldown": 0.5
             },
             {
                 "Price": 1500,
                 "Range": 56,
-                "Damage": 25000,
+                "Damage": 100000,
                 "Cooldown": 0.5
             }
         ]
