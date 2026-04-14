@@ -102,6 +102,71 @@
             }
         ]
     },
+    "Infinity Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://116811755241624",
+        "Rarity": "Devine",
+        "PlacePrice": 80000,
+        "Offset": 0.5,
+        "Max": 4,
+        "Passive": {"Name": ""},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 900000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 120000,
+                "Range": 55,
+                "Damage": 1200000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 200000,
+                "Range": 70,
+                "Damage": 1250000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 250000,
+                "Range": 85,
+                "Damage": 1500000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 1
+            },
+                        {
+                "Price": 500000,
+                "Range": 110,
+                "Damage": 2000000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.9
+            },
+                        {
+                "Price": 1000000,
+                "Range": 130,
+                "Damage": 2200000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
 "Quantum Sentinal Bonnie": {
     "Type": "Continuous",
     "Image": "rbxassetid://131704531901446",
