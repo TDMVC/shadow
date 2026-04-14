@@ -37,44 +37,45 @@
             }
         ]
     },
-"Blocky Doc": {
-        "Type": "AOE",
-        "Image": "rbxassetid://86038249184561",
-        "Rarity": "Secret",
-        "PlacePrice": 5,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 200,
-                "Cooldown": 1
-            },
-            {
-                "Price": 800,
-                "Range": 17.5,
-                "Damage": 350,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1200,
-                "Range": 18,
-                "Damage": 500,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1500,
-                "Range": 18,
-                "Damage": 500,
-                "Cooldown": 0.8
-            }
-        ]
+"Quantum Sentinal Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://131704531901446",
+    "Rarity": "Nightmare",
+    "PlacePrice": 20000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
     },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 1000,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 1500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 1500,
+            "Cooldown": 0.1
+        }
+    ]
+},
 "Blocky Chef": {
         "Type": "AOE",
         "Image": "rbxassetid://86038249184561",
