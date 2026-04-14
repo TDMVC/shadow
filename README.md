@@ -37,6 +37,55 @@
             }
         ]
     },
+    "Master Gravelord Foxy": {
+        "Type": "Summon",
+        "Image": "rbxassetid://124825741007174",
+        "Rarity": "Devine",
+        "PlacePrice": 40000,
+        "Offset": 0.5,
+        "Max": 4,
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 50,
+                "Damage": 45000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 30000,
+                "Range": 65,
+                "Damage": 60000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 40000,
+                "Range": 80,
+                "Damage": 85000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 50000,
+                "Range": 120,
+                "Damage": 125000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.8
+            }
+        ]
+    },
 "Quantum Sentinal Bonnie": {
     "Type": "Continuous",
     "Image": "rbxassetid://131704531901446",
