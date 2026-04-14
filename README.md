@@ -1,9 +1,9 @@
 {
- "Demon Bonnie": {
+ "Glitched Lolbit": {
         "Type": "AOE",
-        "Image": "rbxassetid://86038249184561",
-        "Rarity": "Secret",
-        "PlacePrice": 500,
+        "Image": "rbxassetid://93173023523809",
+        "Rarity": "Nightmare",
+        "PlacePrice": 50000,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -13,27 +13,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 200,
-                "Cooldown": 1
+                "Range": 35,
+                "Damage": 2000,
+                "Cooldown": 0.5
             },
             {
-                "Price": 800,
-                "Range": 17.5,
-                "Damage": 350,
-                "Cooldown": 1
+                "Price": 8000,
+                "Range": 50,
+                "Damage": 4000,
+                "Cooldown": 0.3
             },
             {
-                "Price": 1200,
-                "Range": 18,
-                "Damage": 500,
-                "Cooldown": 1
+                "Price": 12000,
+                "Range": 55,
+                "Damage": 5000,
+                "Cooldown": 0.3
             },
             {
-                "Price": 1500,
-                "Range": 18,
-                "Damage": 500,
-                "Cooldown": 0.8
+                "Price": 15000,
+                "Range": 60,
+                "Damage": 6000,
+                "Cooldown": 0.2
             }
         ]
     },
@@ -83,6 +83,22 @@
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 0.6
+            },
+                        {
+                "Price": 100000,
+                "Range": 175,
+                "Damage": 175000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.5
+            },
+                        {
+                "Price": 150000,
+                "Range": 200,
+                "Damage": 200000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.4
             }
         ]
     },
