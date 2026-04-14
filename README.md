@@ -38,7 +38,7 @@
         ]
     },
     "Master Gravelord Foxy": {
-        "Type": "Summon",
+        "Type": "FUL AOE",
         "Image": "rbxassetid://124825741007174",
         "Rarity": "Devine",
         "PlacePrice": 40000,
