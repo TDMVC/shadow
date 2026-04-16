@@ -1148,25 +1148,25 @@
             {
                 "Price": 0,
                 "Range": 10,
-                "Damage": 30,
+                "Damage": 120,
                 "Cooldown": 0.05
             },
             {
                 "Price": 35000,
                 "Range": 15,
-                "Damage": 35,
+                "Damage": 225,
                 "Cooldown": 0.05
             },
             {
                 "Price": 45000,
                 "Range": 20,
-                "Damage": 50,
+                "Damage": 350,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
                 "Range": 20,
-                "Damage": 65,
+                "Damage": 550,
                 "Cooldown": 0.05
             }
         ]
@@ -1572,49 +1572,6 @@
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.24
-            }
-        ]
-    },
-    "Slayer Endo": {
-        "Type": "Support",
-        "Image": "rbxassetid://17851638702",
-        "Rarity": "Secret",
-        "PlacePrice": 2500,
-        "NoEnemyAttack": true,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.16
-            },
-            {
-                "Price": 1700,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.32
-            },
-            {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.38
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 1.44
             }
         ]
     },
@@ -2252,26 +2209,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4
+                "Damage": 10000,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
                 "Range": 18,
-                "Damage": 150,
-                "Cooldown": 3.8
+                "Damage": 1500,
+                "Cooldown": 1.8
             },
             {
                 "Price": 800,
                 "Range": 20,
-                "Damage": 200,
-                "Cooldown": 3.7
+                "Damage": 2000,
+                "Cooldown": 1.7
             },
             {
                 "Price": 1200,
                 "Range": 22,
-                "Damage": 250,
-                "Cooldown": 3.5
+                "Damage": 2500,
+                "Cooldown": 1.5
             }
         ]
     },
@@ -2969,7 +2926,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 600,
+                "Damage": 1000,
                 "Cooldown": 2.5,
                 "Poison": 250,
                 "PoisonLength": 3
@@ -2977,7 +2934,7 @@
             {
                 "Price": 800,
                 "Range": 22,
-                "Damage": 800,
+                "Damage": 2000,
                 "Cooldown": 2.3,
                 "Poison": 400,
                 "PoisonLength": 3
@@ -2985,7 +2942,7 @@
             {
                 "Price": 1000,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 3000,
                 "Cooldown": 2.2,
                 "Poison": 560,
                 "PoisonLength": 3
@@ -2995,7 +2952,7 @@
                 "Range": 28,
                 "Damage": 750,
                 "Cooldown": 2,
-                "Poison": 900,
+                "Poison": 4000,
                 "PoisonLength": 3
             }
         ]
