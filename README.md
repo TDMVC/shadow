@@ -5615,30 +5615,30 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 18,
+                "Range": 26,
                 "Damage": 679,
-                "Cooldown": 0.75,
+                "Cooldown": 0.55,
                 "MoneyBoost": 1.25
             },
             {
                 "Price": 600,
                 "Range": 20,
                 "Damage": 900,
-                "Cooldown": 0.6,
+                "Cooldown": 0.4,
                 "MoneyBoost": 1.25
             },
             {
                 "Price": 750,
                 "Range": 22,
                 "Damage": 1100,
-                "Cooldown": 0.6,
+                "Cooldown": 0.2,
                 "MoneyBoost": 1.25
             },
             {
                 "Price": 1250,
                 "Range": 25,
                 "Damage": 1450,
-                "Cooldown": 0.5,
+                "Cooldown": 0.1,
                 "MoneyBoost": 1.25
             }
         ]
