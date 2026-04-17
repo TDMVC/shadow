@@ -102,62 +102,6 @@
             }
         ]
     },
-        "Old King Consequences": {
-        "Type": "FUL AOE",
-        "Image": "rbxassetid://104281529337044",
-        "Rarity": "Apex",
-        "PlacePrice": 4000,
-        "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 70 times this units damage"},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 50,
-                "Damage": 4500,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
-                "Health": 500,
-                "Cooldown": 0.2
-            },
-            {
-                "Price": 25000,
-                "Range": 60,
-                "Damage": 5699,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
-                "Health": 500,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 30000,
-                "Range": 70,
-                "Damage": 6000,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
-                "Health": 500,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 50000,
-                "Range": 72,
-                "Damage": 7500,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
-                "Health": 50000,
-                "Cooldown": 0.1
-            },
-                        {
-                "Price": 75000,
-                "Range": 75,
-                "Damage": 9000,
-                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
-                "Health": 50000,
-                "Cooldown": 0.1
-        ]
-    },
     "Infinity Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://116811755241624",
