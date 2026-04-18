@@ -1,7 +1,7 @@
 {
  "Glitched Lolbit": {
         "Type": "AOE",
-        "Image": "rbxassetid://93173023523809",
+        "Image": "rbxassetid://104891718306769",
          "Rarity": "Secret",
         "PlacePrice": 50000,
         "Max": 2,
