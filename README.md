@@ -7503,45 +7503,6 @@
             }
         ]
     },
-     "Sunken Beast Bonnie": {
-        "Type": "Splash Stun",
-        "Image": "rbxassetid://137269769023420",
-        "Rarity": "Nightmare",
-        "PlacePrice": 25000,
-        "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Sea Best", "Description": "IDK."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 28,
-                "Damage": 12500,
-                "Cooldown": 1,
-            },
-            {
-                "Price": 10000,
-                "Range": 32,
-                "Damage": 15500,
-                "Cooldown": 1,
-            {
-                "Price": 12000,
-                "Range": 38,
-                "Damage": 17500,
-                "Cooldown": 1,
-            },
-            {
-                "Price": 16000,
-                "Range": 55,
-                "Damage": 22500,
-                "Cooldown": 0.8,
-            }
-        ]
-    },
  "Grimm Foxy": {
         "Type": "Splash Burn",
         "Image": "rbxassetid://101295016610509",
