@@ -245,6 +245,45 @@
         }
     ]
 },
+"Sea Crawler Foxy": {
+    "Type": "Tank",
+    "Image": "rbxassetid://138512558080561",
+    "Rarity": "Secret",
+    "PlacePrice": 500,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 12500,
+            "Cooldown": 5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 15500,
+            "Cooldown": 5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 27500,
+            "Cooldown": 5
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 38500,
+            "Cooldown": 5
+        }
+    ]
+},
     "Yukon Freddy": {
         "Type": "Limited",
         "Image": "rbxassetid://108172820315503",
