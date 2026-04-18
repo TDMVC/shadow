@@ -206,6 +206,45 @@
         }
     ]
 },
+"Sunken Beast Bonnie": {
+    "Type": "Continuous",
+    "Image": "rbxassetid://137269769023420",
+    "Rarity": "Nightmare",
+    "PlacePrice": 25000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 2500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 25,
+            "Damage": 5500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 25,
+            "Damage": 7500,
+            "Cooldown": 0.2
+        },
+        {
+            "Price": 30000,
+            "Range": 30,
+            "Damage": 8500,
+            "Cooldown": 0.1
+        }
+    ]
+},
     "Yukon Freddy": {
         "Type": "Limited",
         "Image": "rbxassetid://108172820315503",
