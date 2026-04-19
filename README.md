@@ -167,6 +167,71 @@
             }
         ]
     },
+    "Aztec SpringTrap": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://83111423565650",
+        "Rarity": "Devine",
+        "PlacePrice": 22000,
+        "Offset": 0.5,
+        "Max": 1,
+        "Passive": {"Name": ""},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 60,
+                "Damage": 20000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 120000,
+                "Range": 65,
+                "Damage": 25000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 200000,
+                "Range": 70,
+                "Damage": 32500,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 500,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 250000,
+                "Range": 75,
+                "Damage": 55000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.3
+            },
+                        {
+                "Price": 500000,
+                "Range": 80,
+                "Damage": 60000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.2
+            },
+                        {
+                "Price": 1000000,
+                "Range": 85,
+                "Damage": 70000,
+                "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
+                "Health": 50000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
 "Quantum Sentinal Bonnie": {
     "Type": "Continuous",
     "Image": "rbxassetid://131704531901446",
