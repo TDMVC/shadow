@@ -1359,7 +1359,7 @@
     },
     "Serpant Mangle": {
         "Type": "Explosion",
-        "Image": "rbxassetid://16781119726",
+        "Image": "rbxassetid://83562348389207",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 2,
