@@ -245,7 +245,7 @@
         }
     ]
 },
-"Sunken Beast Bonnie": {
+"Drowned Captain Puppet": {
     "Type": "Minigun",
     "Image": "rbxassetid://114355280509764",
     "Rarity": "Epic",
