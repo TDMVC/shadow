@@ -120,7 +120,7 @@
             {
                 "Price": 0,
                 "Range": 40,
-                "Damage": 75000,
+                "Damage": 55000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 1
@@ -128,7 +128,7 @@
             {
                 "Price": 120000,
                 "Range": 55,
-                "Damage": 90000,
+                "Damage": 70000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 1
@@ -136,7 +136,7 @@
             {
                 "Price": 200000,
                 "Range": 70,
-                "Damage": 120000,
+                "Damage": 95000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 500,
                 "Cooldown": 1
@@ -144,7 +144,7 @@
             {
                 "Price": 250000,
                 "Range": 85,
-                "Damage": 350000,
+                "Damage": 100000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 1
@@ -152,7 +152,7 @@
                         {
                 "Price": 500000,
                 "Range": 110,
-                "Damage": 550000,
+                "Damage": 150000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 0.9
@@ -160,7 +160,7 @@
                         {
                 "Price": 1000000,
                 "Range": 130,
-                "Damage": 850000,
+                "Damage": 200000,
                 "Unit": {"Necro Spawn": 1, "Necro Spawn 2": 0},
                 "Health": 50000,
                 "Cooldown": 0.8
@@ -242,6 +242,45 @@
             "Range": 30,
             "Damage": 8500,
             "Cooldown": 0.1
+        }
+    ]
+},
+"Sunken Beast Bonnie": {
+    "Type": "Minigun",
+    "Image": "rbxassetid://114355280509764",
+    "Rarity": "Epic",
+    "PlacePrice": 1250,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 250,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 22,
+            "Damage": 350,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 24,
+            "Damage": 400,
+            "Cooldown": 0.4
+        },
+        {
+            "Price": 30000,
+            "Range": 26,
+            "Damage": 450,
+            "Cooldown": 0.3
         }
     ]
 },
