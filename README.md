@@ -170,7 +170,7 @@
     "Aztec SpringTrap": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://83111423565650",
-        "Rarity": "Devine",
+        "Rarity": "Apex",
         "PlacePrice": 22000,
         "Offset": 0.5,
         "Max": 1,
