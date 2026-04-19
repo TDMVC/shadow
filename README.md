@@ -284,6 +284,45 @@
         }
     ]
 },
+"Deep Diver Freddy": {
+    "Type": "Fast Splash",
+    "Image": "rbxassetid://95719921688006",
+    "Rarity": "Secret",
+    "PlacePrice": 2250,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 38,
+            "Damage": 2750,
+            "Cooldown": 1
+        },
+        {
+            "Price": 10000,
+            "Range": 44,
+            "Damage": 3150,
+            "Cooldown": 0.9
+        },
+        {
+            "Price": 25000,
+            "Range": 48,
+            "Damage": 3200,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 30000,
+            "Range": 50,
+            "Damage": 3550,
+            "Cooldown": 0.7
+        }
+    ]
+},
     "Yukon Freddy": {
         "Type": "Limited",
         "Image": "rbxassetid://108172820315503",
