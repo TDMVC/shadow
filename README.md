@@ -1357,6 +1357,45 @@
             }
         ]
     },
+    "Serpant Mangle": {
+        "Type": "Explosion",
+        "Image": "rbxassetid://16781119726",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 750,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 750,
+                "Range": 17,
+                "Damage": 1250,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 1250,
+                "Range": 20,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 22,
+                "Damage": 2500,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
