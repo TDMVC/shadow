@@ -108,7 +108,7 @@
         "Rarity": "Devine",
         "PlacePrice": 80000,
         "Offset": 0.5,
-        "Max": 4,
+        "Max": 3,
         "Passive": {"Name": ""},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -329,7 +329,7 @@
     "Rarity": "Secret",
     "PlacePrice": 2250,
     "Offset": 0,
-    "Max": 2,
+    "Max": 3,
     "hitboxOffset": {
         "X": 0,
         "Y": 0,
@@ -5539,7 +5539,7 @@
             {
                 "Price": 0,
                 "Range": 26,
-                "Damage": 679,
+                "Damage": 700,
                 "Cooldown": 0.55,
                 "MoneyBoost": 1.25
             },
