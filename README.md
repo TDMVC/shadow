@@ -313,7 +313,7 @@
 "Drowned Captain Puppet": {
     "Type": "Minigun",
     "Image": "rbxassetid://114355280509764",
-    "Rarity": "Epic",
+    "Rarity": "Mythic",
     "PlacePrice": 1250,
     "Offset": 0,
     "Max": 2,
