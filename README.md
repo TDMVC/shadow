@@ -6930,7 +6930,7 @@
         "Lefty": {
         "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
