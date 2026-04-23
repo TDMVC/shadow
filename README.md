@@ -392,6 +392,45 @@
         }
     ]
 },
+"Polluted Chica": {
+    "Type": "Single",
+    "Image": "rbxassetid://126212568924773",
+    "Rarity": "Rare",
+    "PlacePrice": 1250,
+    "Offset": 0,
+    "Max": 3,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 12,
+            "Damage": 125,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 10000,
+            "Range": 14,
+            "Damage": 140,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 25000,
+            "Range": 16,
+            "Damage": 155,
+            "Cooldown": 0.4
+        },
+        {
+            "Price": 30000,
+            "Range": 19,
+            "Damage": 175,
+            "Cooldown": 0.3
+        }
+    ]
+},
 "Wasted Fisherman Bonnie": {
     "Type": "Single",
     "Image": "rbxassetid://95487733651405",
