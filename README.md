@@ -353,6 +353,84 @@
         }
     ]
 },
+"Bukavac Mangle": {
+    "Type": "AOE",
+    "Image": "rbxassetid://75051365211648",
+    "Rarity": "Secret",
+    "PlacePrice": 5500,
+    "Offset": 0,
+    "Max": 1,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 25,
+            "Damage": 5500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 12500,
+            "Range": 35,
+            "Damage": 5500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 15500,
+            "Range": 37,
+            "Damage": 7500,
+            "Cooldown": 0.5
+        },
+        {
+            "Price": 27500,
+            "Range": 40,
+            "Damage": 8500,
+            "Cooldown": 0.5
+        }
+    ]
+},
+"Leech Infested Cupcake": {
+    "Type": "Single",
+    "Image": "rbxassetid://72895097369538",
+    "Rarity": "Secret",
+    "PlacePrice": 250,
+    "Offset": 0,
+    "Max": 5,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 18,
+            "Damage": 50,
+            "Cooldown": 1
+        },
+        {
+            "Price": 599,
+            "Range": 22,
+            "Damage": 125,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 799,
+            "Range": 26,
+            "Damage": 210,
+            "Cooldown": 0.7
+        },
+        {
+            "Price": 999,
+            "Range": 29,
+            "Damage": 250,
+            "Cooldown": 0.6
+        }
+    ]
+},
 "Drowned Captain Puppet": {
     "Type": "Minigun",
     "Image": "rbxassetid://114355280509764",
