@@ -102,6 +102,49 @@
             }
         ]
     },
+        "Angler Endo": {
+        "Type": "Support",
+        "Image": "rbxassetid://130029131701946",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "NoEnemyAttack": true,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.26
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.32
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.48
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.54
+            }
+        ]
+    },
     "Infinity Freddy": {
         "Type": "Pierce",
         "Image": "rbxassetid://116811755241624",
