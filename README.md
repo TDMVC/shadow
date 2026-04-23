@@ -431,6 +431,45 @@
         }
     ]
 },
+"Old Man Crocodile": {
+    "Type": "AOE",
+    "Image": "rbxassetid://85729855094601",
+    "Rarity": "Nightmare",
+    "PlacePrice": 25000,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 28,
+            "Damage": 7500,
+            "Cooldown": 1
+        },
+        {
+            "Price": 50000,
+            "Range": 32,
+            "Damage": 12500,
+            "Cooldown": 0.8
+        },
+        {
+            "Price": 72500,
+            "Range": 46,
+            "Damage": 21000,
+            "Cooldown": 0.7
+        },
+        {
+            "Price": 85000,
+            "Range": 49,
+            "Damage": 23500,
+            "Cooldown": 0.6
+        }
+    ]
+},
 "Drowned Captain Puppet": {
     "Type": "Minigun",
     "Image": "rbxassetid://114355280509764",
