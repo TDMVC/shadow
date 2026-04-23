@@ -392,6 +392,45 @@
         }
     ]
 },
+"Wasted Fisherman Bonnie": {
+    "Type": "Single",
+    "Image": "rbxassetid://95487733651405",
+    "Rarity": "Epic",
+    "PlacePrice": 750,
+    "Offset": 0,
+    "Max": 2,
+    "hitboxOffset": {
+        "X": 0,
+        "Y": 0,
+        "Z": 0
+    },
+    "Upgrades": [
+        {
+            "Price": 0,
+            "Range": 20,
+            "Damage": 500,
+            "Cooldown": 2
+        },
+        {
+            "Price": 10000,
+            "Range": 22,
+            "Damage": 550,
+            "Cooldown": 1.5
+        },
+        {
+            "Price": 25000,
+            "Range": 24,
+            "Damage": 600,
+            "Cooldown": 1.4
+        },
+        {
+            "Price": 30000,
+            "Range": 26,
+            "Damage": 750,
+            "Cooldown": 1.3
+        }
+    ]
+},
 "Sea Crawler Foxy": {
     "Type": "Tank",
     "Image": "rbxassetid://138512558080561",
